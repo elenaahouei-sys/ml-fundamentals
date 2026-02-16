@@ -8,7 +8,6 @@ This repository is designed for beginners who want to **understand the core conc
 Each project is self-contained in its own folder with:
 - Clear, commented Python code
 - Step-by-step implementation
-- Dedicated README explaining usage, dataset, and methods
 
 ---
 
