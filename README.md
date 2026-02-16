@@ -21,10 +21,8 @@ Each project is self-contained in its own folder with:
 ### Classification
 - **K-Nearest Neighbors (KNN)** – Classify data points based on closest neighbors.
 - **Decision Tree** – Build decision trees from scratch for classification.
+- **Naive Bayes Classifier** – Simple probabilistic classifier for text or categorical data.
+- **Perceptron** – Basic neural network unit for understanding supervised learning.
 
 ### Clustering
 - **K-Means Clustering** – Partition data into K clusters using iterative refinement.
-
-### Optional Additional Basics
-- **Naive Bayes Classifier** – Simple probabilistic classifier for text or categorical data.
-- **Perceptron** – Basic neural network unit for understanding supervised learning.
