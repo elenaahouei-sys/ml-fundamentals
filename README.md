@@ -6,7 +6,7 @@ Welcome to **Machine Learning from Scratch**, a collection of fundamental ML alg
 This repository is designed for beginners who want to **understand the core concepts behind ML algorithms** without relying on high-level libraries like scikit-learn.
 
 Each project is self-contained in its own folder with:
-- Clear, commented Python code
+- Clear Python code
 - Step-by-step implementation
 
 ---
